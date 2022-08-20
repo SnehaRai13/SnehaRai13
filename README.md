@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnehaRai13
+- 👋 Hi, I’m Sneha Rai
 - 👀 I’m interested in Web Development Based Project
 - 🌱 I’m currently learning Image recognition in AI ML
 - 💞️ I’m looking to collaborate on Web Based Project
