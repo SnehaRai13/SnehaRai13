@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Sneha Rai
-- 👀 I’m interested in Web Development Based Project
-- 🌱 I’m currently learning Image recognition in AI ML
-- 💞️ I’m looking to collaborate on Web Based Project
-- 📫 How to reach me sneharai1913640@gmail.com
+👋 Hi, I'm Sneha Rai!
+
+🎓 Master's in Engineering Management @ Purdue University  
+💻 Former Software Engineer @ UBS | Full-Stack Development & Automation  
+🚀 Interested in Technical Program Management, Project Management & Technology Strategy  
+🛠️ Experienced in Python, Java, React, TypeScript, SQL & Spring Boot  
+🤝 Passionate about building technology, driving execution & solving complex problems  
 
 <!---
 SnehaRai13/SnehaRai13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
